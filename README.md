@@ -23,3 +23,13 @@ tr anything_you_want
 ## Configuration
 
 Just look into the workflow and edit the *Script Filters* to meet your needs.
+
+## Update
+
+Open alfred then
+
+```
+tr update
+```
+
+Select the `Google Translate Workflow: Update` option, you'll get a notification when it's done.
