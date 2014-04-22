@@ -10,7 +10,7 @@ This is the enhanced version of [Florian Pellet's Google Translate Workflow](htt
 
 ## Download
 
-[Download It Here]()
+[Download It Here](https://github.com/Neson/alfred-googleTranslate-workflow/blob/master/Translation.alfredworkflow?raw=true)
 
 ## Usage
 
