@@ -10,7 +10,7 @@ This is the enhanced version of [Florian Pellet's Google Translate Workflow](htt
 
 ## Download
 
-[Download It Here](https://github.com/Neson/alfred-googleTranslate-workflow/blob/master/Translation.alfredworkflow?raw=true)
+[Download It Here](https://github.com/zetavg/alfred-google-translate-workflow/blob/master/Google%20Translate.alfredworkflow?raw=true)
 
 ## Usage
 
@@ -23,13 +23,3 @@ tr anything_you_want
 ## Configuration
 
 Just look into the workflow and edit the *Script Filters* to meet your needs.
-
-## Update
-
-Open alfred then
-
-```
-tr update
-```
-
-Select the `Google Translate Workflow: Update` option, you'll get a notification when it's done.
