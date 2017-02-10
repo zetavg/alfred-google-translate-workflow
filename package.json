@@ -1,0 +1,22 @@
+{
+  "name": "alfred-google-translate-workflow",
+  "version": "1.0.0",
+  "description": "Alfred Google Translate Workflow ==================================",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/zetavg/alfred-google-translate-workflow.git"
+  },
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/zetavg/alfred-google-translate-workflow/issues"
+  },
+  "homepage": "https://github.com/zetavg/alfred-google-translate-workflow#readme",
+  "dependencies": {
+    "google-translate-api": "^2.2.2"
+  }
+}
