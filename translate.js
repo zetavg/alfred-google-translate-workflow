@@ -19,7 +19,8 @@ translate(query, { from: source, to: target, raw: true }).then(res => {
   }
 
   if (res.text) {
-    output.items.push({ title: res.text, subtitle: target_display_name, arg: res.text });
+    const text = res.text.replace(/null$/, '');
+    output.items.push({ title: text, subtitle: target_display_name, arg: text });
   }
 
   if (raw && raw[1]) {
