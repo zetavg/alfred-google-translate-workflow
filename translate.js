@@ -36,4 +36,6 @@ translate(query, { from: source, to: target, raw: true }).then(res => {
   }
 
   console.log(JSON.stringify(output));
+}).catch(e => {
+  console.error(e);
 });
