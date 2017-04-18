@@ -14,7 +14,7 @@ translate(query, { from: source, to: target, raw: true }).then(res => {
 
   if (res.from.text.autoCorrected) {
     var autoCorrected = res.from.text.value.replace(/\<[^\<\>]+\>/g, '');
-    autoCorrected = autoCorrected.replace(/^\[/, '').replace(/\]$/, '')
+    autoCorrected = autoCorrected.replace(/\[/, '').replace(/\]/, '');
     output.items.push({ title: autoCorrected, subtitle: 'Did you mean this?', autocomplete: autoCorrected });
   }
 
