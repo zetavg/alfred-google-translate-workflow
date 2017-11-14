@@ -1,7 +1,7 @@
 Alfred Google Translate Workflow
 ==================================
 
-![Alfred Google Translate Workflow](https://i.imgur.com/eGaQ0zp.gif)
+![Alfred Google Translate Workflow](https://i.imgur.com/bg8XuRv.gif)
 
 This workflow is originally based on [Florian Pellet's Google Translate Workflow](http://florianpellet.com/alfred/) and is re-written using node.js, with additional features such as:
 
