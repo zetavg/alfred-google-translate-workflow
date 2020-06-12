@@ -1,5 +1,5 @@
 #!./node
-var translate = require('google-translate-api');
+const translate = require('@vitalets/google-translate-api');
 
 var source = process.argv[2]
 var target = process.argv[3]
