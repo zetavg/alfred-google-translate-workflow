@@ -17,6 +17,6 @@
   },
   "homepage": "https://github.com/zetavg/alfred-google-translate-workflow#readme",
   "dependencies": {
-    "google-translate-api": "^2.2.2"
+    "@vitalets/google-translate-api": "^3.0.0"
   }
 }
