@@ -7,21 +7,10 @@ To make translations (based on Google Translate) without leaving your keyboard. 
 * Multiple definitions support
 * Providing input suggestions
 
-## Download
-
-[Download It Here](https://github.com/rogiervandenberg/alfred-google-translate-workflow/blob/master/Google%20Translate.alfredworkflow?raw=true)
-
 ## Usage
 
-Open alfred then
+Bring up Alfred, then
 
-```plain
-tr anything_you_want
 ```
-
-## Configuration
-
-Just look into the workflow and edit the *Script Filters* to meet your needs:
-
-* Inside a 'translation set' you can make adjustments (e.g. make the set translate to Spanish)
-* Or you can make a copy of a translation set, to create additional definitions.
+tr anything you want
+```
